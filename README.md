@@ -24,7 +24,8 @@ git status
 ```bash
 git add index.html
 ```
-Kalo kalian *git status* lagi maka file yang tadinya berwarna merah akan jadi berwarna hijau, itu mengindikasikan bahwa file sudah masuk ke *staging area*
+- Pastikan "index.html" kalian ganti dengan nama file kalian atau kalian bisa menggunakan "git add ." untuk menambahkan semua file secara langsung
+- Kalo kalian *git status* lagi maka file yang tadinya berwarna merah akan jadi berwarna hijau, itu mengindikasikan bahwa file sudah masuk ke *staging area*
 #### 4. **Masukkan File dari Staging Area ke Local Repository**
 - Digunakan untuk menyimpan (merekam) perubahan yang telah ditambahkan ke **staging area** ke dalam **repository**.
 ```bash
