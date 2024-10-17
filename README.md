@@ -61,7 +61,7 @@ git push -u origin master
 Klik *setting* di *repository* github kalian lalu klik *Collaborators*
 ![Collaborators](assets/collaborators.png)
 - Kalian bisa klik *Add People* lalu ketikkan username github teman kalian.
-- Setelah ditambah minta teman kalian untuk cek email untuk menerima invite dari kalian.
+- Setelah ditambah minta teman kalian untuk cek email untuk menerima *invitation* dari kalian.
 
 #### **Clone Repository**
 - Setelah menerima invite dari teman kalian maka kalian bisa clone *repository* teman kalian dengan cara:
