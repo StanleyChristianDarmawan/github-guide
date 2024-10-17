@@ -15,7 +15,7 @@ git init
 git status
 ```
 
-- ![[{545CF762-2D15-401D-9395-621D5B086AD5}.png]]
+![Git Flow](assets/git_flow.png)
 - Jika text berwarna merah artinya masih ada di *Working Directory*
 - Jika text berwarna hijau artinya sudah berada di *Staging Area*
 
@@ -39,7 +39,7 @@ git commit -m "add index.html file"
 - Pergi ke GitHub dan buat repository baru.
 #### 6. **Menghubungkan Git Lokal ke Repository GitHub**
 - Salin URL repository dari GitHub.
-![[Screenshot 2024-10-17 230109.png]]
+![Repository](assets/repository.png)
 - Buka kembali terminal kalian lalu ketik
 ```bash
 git remote add origin https://github.com/StanleyChristianDarmawan/demo-github.git
@@ -58,7 +58,7 @@ git push -u origin master
 ## Cara kolaborasi:
 ---
 Klik *setting* di *repository* github kalian lalu klik *Collaborators*
-![[Pasted image 20241017230822.png]]
+![Collaborators](assets/collaborators.png)
 - Kalian bisa klik *Add People* lalu ketikkan username github teman kalian.
 - Setelah ditambah minta teman kalian untuk cek email untuk menerima invite dari kalian.
 
