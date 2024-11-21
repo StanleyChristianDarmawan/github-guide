@@ -53,7 +53,7 @@ git push -u origin master
 ```
 - abis push seharusnya disuruh login seperti ini:
 ![Repository](assets/login.png)
-- ini klik "Sign in with your browser" aja nanti otomatis ke sign ini kalo udah login github di browsernya.
+- ini klik "Sign in with your browser" aja, nanti otomatis ke sign ini kalo udah login github di browser.
 
 #### 6. **Mengecek Hasil di GitHub**
 - Refresh browser kalian dan pastikan file sudah terupload dengan benar
