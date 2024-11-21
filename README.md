@@ -51,6 +51,9 @@ Pastikan link yang kalian masukkan merupakan link dari repository kalian.
 ```bash
 git push -u origin master
 ```
+abis push seharusnya disuruh login:
+![Repository](assets/login.png)
+ini klik "Sign in with your browser" aja nanti otomatis ke sign ini kalo udah login github di browsernya.
 
 #### 6. **Mengecek Hasil di GitHub**
 - Refresh browser kalian dan pastikan file sudah terupload dengan benar
